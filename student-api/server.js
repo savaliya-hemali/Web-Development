@@ -1,4 +1,4 @@
-/* intallation:in terminal,
+/* intallation:bash,
 mkdir student-api
 cd student-api
 npm init -y
