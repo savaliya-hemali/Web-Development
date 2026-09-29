@@ -5,7 +5,7 @@ npm init -y
 npm install express*/
 
 /*output: node server.js */
-
+/*postman for put,post,delete*/
 
 const express = require("express");
 
